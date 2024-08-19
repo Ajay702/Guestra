@@ -6,6 +6,7 @@ To install the project dependencies, run the following command:
 npm i
 npm run dev
 ```
+Connect with mongoDB
 Run routes on postman with different requst methods,
 for eg.
 ```bash
